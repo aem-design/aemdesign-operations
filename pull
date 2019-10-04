@@ -1,0 +1,18 @@
+#!/bin/bash
+
+DIR_INC="$(cd .. && pwd)/scripts"
+# shellcheck disable=SC2034
+DIR_ROOT="$(cd .. && pwd)"
+
+echo $DIR_INC
+
+if [[ -d $DIR_INC ]]; then
+
+    source $DIR_INC/functions-debug.sh
+    source $DIR_INC/functions-localdev.sh
+    source $DIR_INC/functions-repoman.sh
+
+    doReposPull
+
+fi
+
