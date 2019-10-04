@@ -1,0 +1,12 @@
+[submodule "aemdesign-ansible-roles"]
+	path = aemdesign-ansible-roles
+	url = git@github.com:aem-design/aemdesign-ansible-roles.git
+[submodule "aemdesign-deploy"]
+	path = aemdesign-deploy
+	url = git@github.com:aem-design/aemdesign-deploy.git
+[submodule "aemdesign-docker"]
+	path = aemdesign-docker
+	url = git@github.com:aem-design/aemdesign-docker.git
+[submodule "aemdesign-vm"]
+	path = aemdesign-vm
+	url = git@github.com:aem-design/aemdesign-vm.git
