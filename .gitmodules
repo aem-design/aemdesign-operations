@@ -10,3 +10,6 @@
 [submodule "aemdesign-vm"]
 	path = aemdesign-vm
 	url = git@github.com:aem-design/aemdesign-vm.git
+[submodule "aemdesign-npm"]
+	path = aemdesign-npm
+	url = git@github.com:aem-design/aemdesign-npm.git
