@@ -13,3 +13,6 @@
 [submodule "aemdesign-npm"]
 	path = aemdesign-npm
 	url = git@github.com:aem-design/aemdesign-npm.git
+[submodule "aemdesign-content"]
+	path = aemdesign-content
+	url = git@github.com:aem-design/aemdesign-content.git
