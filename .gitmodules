@@ -22,3 +22,6 @@
 	path = aemdesign-project-services
 	url = https://github.com/aem-design/aemdesign-project-services.git
 	branch = master
+[submodule "aemdesign-docker"]
+	path = aemdesign-docker
+	url = https://github.com/aem-design/aemdesign-docker.git
