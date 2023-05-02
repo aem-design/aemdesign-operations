@@ -1,21 +1,21 @@
 [submodule "aemdesign-ansible-roles"]
 	path = aemdesign-ansible-roles
-	url = git@github.com:aem-design/aemdesign-ansible-roles.git
+	url = https://github.com/aem-design/aemdesign-ansible-roles.git
 [submodule "aemdesign-deploy"]
 	path = aemdesign-deploy
-	url = git@github.com:aem-design/aemdesign-deploy.git
+	url = https://github.com/aem-design/aemdesign-deploy.git
 [submodule "aemdesign-docker"]
 	path = aemdesign-docker
-	url = git@github.com:aem-design/aemdesign-docker.git
+	url = https://github.com/aem-design/aemdesign-docker.git
 [submodule "aemdesign-vm"]
 	path = aemdesign-vm
-	url = git@github.com:aem-design/aemdesign-vm.git
+	url = https://github.com/aem-design/aemdesign-vm.git
 [submodule "aemdesign-npm"]
 	path = aemdesign-npm
-	url = git@github.com:aem-design/aemdesign-npm.git
+	url = https://github.com/aem-design/aemdesign-npm.git
 [submodule "aemdesign-content"]
 	path = aemdesign-content
-	url = git@github.com:aem-design/aemdesign-content.git
+	url = https://github.com/aem-design/aemdesign-content.git
 [submodule "aemdesign-project-services"]
 	path = aemdesign-project-services
 	url = https://github.com/aem-design/aemdesign-project-services.git
