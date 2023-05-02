@@ -16,3 +16,6 @@
 [submodule "aemdesign-content"]
 	path = aemdesign-content
 	url = git@github.com:aem-design/aemdesign-content.git
+[submodule "aemdesign-project-services"]
+	path = aemdesign-project-services
+	url = https://github.com/aem-design/aemdesign-project-services.git
