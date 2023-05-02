@@ -2,3 +2,21 @@
 	path = aemdesign-docker
 	url = https://github.com/aem-design/aemdesign-docker.git
 	branch = master
+[submodule "aemdesign-ansible-roles"]
+	path = aemdesign-ansible-roles
+	url = https://github.com/aem-design/aemdesign-ansible-roles.git
+[submodule "aemdesign-deploy"]
+	path = aemdesign-deploy
+	url = https://github.com/aem-design/aemdesign-deploy.git
+[submodule "aemdesign-vm"]
+	path = aemdesign-vm
+	url = https://github.com/aem-design/aemdesign-vm.git
+[submodule "aemdesign-npm"]
+	path = aemdesign-npm
+	url = https://github.com/aem-design/aemdesign-npm.git
+[submodule "aemdesign-content"]
+	path = aemdesign-content
+	url = https://github.com/aem-design/aemdesign-content.git
+[submodule "aemdesign-project-services"]
+	path = aemdesign-project-services
+	url = https://github.com/aem-design/aemdesign-project-services.git
