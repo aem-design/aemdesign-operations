@@ -6,10 +6,6 @@
 	path = aemdesign-deploy
 	url = https://github.com/aem-design/aemdesign-deploy.git
 	branch = master
-[submodule "aemdesign-docker"]
-	path = aemdesign-docker
-	url = https://github.com/aem-design/aemdesign-docker.git
-	branch = master
 [submodule "aemdesign-vm"]
 	path = aemdesign-vm
 	url = https://github.com/aem-design/aemdesign-vm.git
