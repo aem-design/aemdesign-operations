@@ -5,18 +5,24 @@
 [submodule "aemdesign-ansible-roles"]
 	path = aemdesign-ansible-roles
 	url = https://github.com/aem-design/aemdesign-ansible-roles.git
+	branch = master
 [submodule "aemdesign-deploy"]
 	path = aemdesign-deploy
 	url = https://github.com/aem-design/aemdesign-deploy.git
+	branch = master
 [submodule "aemdesign-vm"]
 	path = aemdesign-vm
 	url = https://github.com/aem-design/aemdesign-vm.git
+	branch = master
 [submodule "aemdesign-npm"]
 	path = aemdesign-npm
 	url = https://github.com/aem-design/aemdesign-npm.git
+	branch = master
 [submodule "aemdesign-content"]
 	path = aemdesign-content
 	url = https://github.com/aem-design/aemdesign-content.git
+	branch = master
 [submodule "aemdesign-project-services"]
 	path = aemdesign-project-services
 	url = https://github.com/aem-design/aemdesign-project-services.git
+	branch = main
