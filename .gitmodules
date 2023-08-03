@@ -21,7 +21,7 @@
 [submodule "aemdesign-content"]
 	path = aemdesign-content
 	url = https://github.com/aem-design/aemdesign-content.git
-	branch = master
+	branch = main
 [submodule "aemdesign-project-services"]
 	path = aemdesign-project-services
 	url = https://github.com/aem-design/aemdesign-project-services.git
